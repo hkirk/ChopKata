@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterative", "Iterative\Iterative.csproj", "{044D9955-944C-4D8A-8EB5-2FDE774EE8AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterative.Tests", "Iterative.Tests\Iterative.Tests.csproj", "{8536C77A-C13E-4FBF-ADEC-9D4D9F54C36D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{044D9955-944C-4D8A-8EB5-2FDE774EE8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044D9955-944C-4D8A-8EB5-2FDE774EE8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044D9955-944C-4D8A-8EB5-2FDE774EE8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044D9955-944C-4D8A-8EB5-2FDE774EE8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8536C77A-C13E-4FBF-ADEC-9D4D9F54C36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8536C77A-C13E-4FBF-ADEC-9D4D9F54C36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8536C77A-C13E-4FBF-ADEC-9D4D9F54C36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8536C77A-C13E-4FBF-ADEC-9D4D9F54C36D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
