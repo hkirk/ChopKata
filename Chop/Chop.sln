@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterative", "Iterative\Iter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterative.Tests", "Iterative.Tests\Iterative.Tests.csproj", "{8536C77A-C13E-4FBF-ADEC-9D4D9F54C36D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive", "Recursive\Recursive.csproj", "{EB14932A-4376-494A-BA74-DD76672BEB56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive.Tests", "Recursive.Tests\Recursive.Tests.csproj", "{A55025CB-28C0-48B9-A5B2-5E6AFD939401}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{8536C77A-C13E-4FBF-ADEC-9D4D9F54C36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8536C77A-C13E-4FBF-ADEC-9D4D9F54C36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8536C77A-C13E-4FBF-ADEC-9D4D9F54C36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB14932A-4376-494A-BA74-DD76672BEB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB14932A-4376-494A-BA74-DD76672BEB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB14932A-4376-494A-BA74-DD76672BEB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB14932A-4376-494A-BA74-DD76672BEB56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A55025CB-28C0-48B9-A5B2-5E6AFD939401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55025CB-28C0-48B9-A5B2-5E6AFD939401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55025CB-28C0-48B9-A5B2-5E6AFD939401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55025CB-28C0-48B9-A5B2-5E6AFD939401}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
